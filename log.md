@@ -15,5 +15,12 @@
 **Today's Progress**: Not much, more of conditionals and short circuits, discover typeof , ternary operators and some functions
 
 **Thoughts:** I really struggled finding time even I am enjoying
+### Day 3: July 21, 2020 
 
+
+**Today's Progress**:  22% of learn java script course on codecademy
+### Day 4: July 25, 2020 
+
+
+**Today's Progress**:  33% of learn java script course on codecademy
 
